@@ -1,0 +1,5 @@
+title: ghoulspa
+description: Notes and findings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
